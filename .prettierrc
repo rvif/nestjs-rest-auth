@@ -1,0 +1,10 @@
+{
+  "plugins": ["prettier-plugin-brace-style"],
+
+  "singleQuote": true,
+  "trailingComma": "all",
+  "tabWidth": 4,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "braceStyle": "allman"
+}
